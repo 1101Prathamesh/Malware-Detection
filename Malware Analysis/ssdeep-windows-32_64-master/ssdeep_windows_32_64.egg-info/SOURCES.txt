@@ -1,0 +1,10 @@
+README.md
+setup.py
+ssdeep/__init__.py
+ssdeep/bin/fuzzy.dll
+ssdeep/bin/fuzzy_64.dll
+ssdeep_windows_32_64.egg-info/PKG-INFO
+ssdeep_windows_32_64.egg-info/SOURCES.txt
+ssdeep_windows_32_64.egg-info/dependency_links.txt
+ssdeep_windows_32_64.egg-info/not-zip-safe
+ssdeep_windows_32_64.egg-info/top_level.txt

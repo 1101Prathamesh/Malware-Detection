@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ssdeep-windows-32-64
+Version: 0.0.1
+Summary: Python wrapper for the ssdeep library with win 64 support
+Home-page: UNKNOWN
+Author: MacDue (forked from Intezer Labs Ltd)
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
